@@ -1,0 +1,3 @@
+- rem : root element
+- 1 rem = 16px
+- legend tag: used to define the title for the child contents.
